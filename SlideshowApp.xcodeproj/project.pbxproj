@@ -16,6 +16,8 @@
 		E91E255A1C4FD87200F0E713 /* image1-1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E91E25571C4FD87200F0E713 /* image1-1.JPG */; };
 		E91E255B1C4FD87200F0E713 /* image2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E91E25581C4FD87200F0E713 /* image2.JPG */; };
 		E91E255C1C4FD87200F0E713 /* image1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E91E25591C4FD87200F0E713 /* image1.JPG */; };
+		E99E46D31C50F79B0092A77C /* image1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E99E46D21C50F79A0092A77C /* image1.JPG */; };
+		E99E46D51C50F7A10092A77C /* image2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E99E46D41C50F7A10092A77C /* image2.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		E91E25571C4FD87200F0E713 /* image1-1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "image1-1.JPG"; path = "../../../../Downloads/image1-1.JPG"; sourceTree = "<group>"; };
 		E91E25581C4FD87200F0E713 /* image2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image2.JPG; path = ../../../../Downloads/image2.JPG; sourceTree = "<group>"; };
 		E91E25591C4FD87200F0E713 /* image1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image1.JPG; path = ../../../../Downloads/image1.JPG; sourceTree = "<group>"; };
+		E99E46D21C50F79A0092A77C /* image1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image1.JPG; path = ../../../../Downloads/image1.JPG; sourceTree = "<group>"; };
+		E99E46D41C50F7A10092A77C /* image2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image2.JPG; path = ../../../../Downloads/image2.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				E91E254C1C4E741600F0E713 /* Assets.xcassets */,
 				E91E254E1C4E741600F0E713 /* LaunchScreen.storyboard */,
 				E91E25511C4E741600F0E713 /* Info.plist */,
+				E99E46D21C50F79A0092A77C /* image1.JPG */,
+				E99E46D41C50F7A10092A77C /* image2.JPG */,
 				E91E25401C4E741600F0E713 /* Supporting Files */,
 			);
 			path = SlideshowApp;
@@ -151,6 +157,8 @@
 				E91E255A1C4FD87200F0E713 /* image1-1.JPG in Resources */,
 				E91E254D1C4E741600F0E713 /* Assets.xcassets in Resources */,
 				E91E254B1C4E741600F0E713 /* Main.storyboard in Resources */,
+				E99E46D51C50F7A10092A77C /* image2.JPG in Resources */,
+				E99E46D31C50F79B0092A77C /* image1.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +318,7 @@
 				E91E25561C4E741600F0E713 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
